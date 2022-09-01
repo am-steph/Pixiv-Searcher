@@ -16,5 +16,10 @@ Naming scheme
 - selenium
 - pprint
 
+## Pixiv Auth
+Reference here
+
+https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde?permalink_comment_id=3872537
+
 ## Usage
 
